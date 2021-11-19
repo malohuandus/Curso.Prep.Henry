@@ -245,5 +245,8 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
+
+
+  
   esVocal,
 };
