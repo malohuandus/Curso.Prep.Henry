@@ -3,7 +3,7 @@
 ## ¿Qué es Git? 
 Git es un sistema de control de versiones, distribuido y open source. Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante. 
 
-## Instalación
+## Instalación!
 ### Para Mac y Linux: 
 ### Ver estos enlaces: 
 https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git </br>
